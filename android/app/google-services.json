@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "554101602434",
+    "firebase_url": "https://onenonly-2f2be.firebaseio.com",
+    "project_id": "onenonly-2f2be",
+    "storage_bucket": "onenonly-2f2be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554101602434:android:a211c54fa8b718a0",
+        "android_client_info": {
+          "package_name": "com.stiensgate.ono"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554101602434-p6oolhvp97ccb59nrlhg9of6rtnbidhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stiensgate.ono",
+            "certificate_hash": "ef529ea529f25950f1ab0d671188b9fc613452fe"
+          }
+        },
+        {
+          "client_id": "554101602434-66kd14qmq3a43ekmfp1mlmdc8rb5tn12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIKhFT_4MCvYm0UHUuQmz7V2sq1hCefs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554101602434-66kd14qmq3a43ekmfp1mlmdc8rb5tn12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
